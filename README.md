@@ -2,7 +2,8 @@
 
 # :: about JMdR⭐
 **JMdR** (long-form: **JMdash REBORN**) is a fully open-source, general purpose programming language. \
-Built in C++ with [LLVM](https://llvm.org)
+Built in C++ with [LLVM](https://llvm.org) \
+We also have an official [*i*DE](https://github.com/jstmaxlol/myatezhDE) coming up soon
 ###### *This project is the official continuation of the now defunct [JM- (JMDash)](https://github.com/jmdash-devs/jmdash) project.
 
 <!-- ## :: [JMdR's documentation]( # ) -->
